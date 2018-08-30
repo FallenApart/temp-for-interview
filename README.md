@@ -2,4 +2,4 @@
 
 [Synthetic ships notebook](http://nbviewer.jupyter.org/github/FallenApart/temp-for-interview/blob/master/synthetic-ships.ipynb)
 
-[Time series forecasting](http://nbviewer.jupyter.org/github/FallenApart/temp-for-interview/blob/master/time-series-forecasting.ipynb)
+[Time series forecasting notebook](http://nbviewer.jupyter.org/github/FallenApart/temp-for-interview/blob/master/time-series-forecasting.ipynb)
